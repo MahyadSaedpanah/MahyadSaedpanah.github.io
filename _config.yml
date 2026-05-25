@@ -30,10 +30,11 @@ author:
   location         : "Sanandaj, Kurdistan Province, Iran"
   employer         : "University of Kurdistan"
   uri              : # URL
-  academic email   : "mahyad.saedpanah@uok.ac.ir" 
-  personal email   : "saedpanahmahyad@gmail.com"
-  github: "https://github.com/MahyadSaedpanah"
-  linkedin: "https://www.linkedin.com/in/mahyadsaedpanah/"
+  email   : "mahyad.saedpanah@uok.ac.ir" 
+  # personal email   : "saedpanahmahyad@gmail.com"
+  github: "MahyadSaedpanah"
+  # linkedin: "https://www.linkedin.com/in/mahyadsaedpanah/"
+  linkedin: "mahyadsaedpanah"
   orcid: "https://orcid.org/0009-0006-3596-1786"
 
 
