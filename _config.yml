@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Mahyad Saedpanah"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Mahyad Saedpanah"
+description              : &description "M.Sc. Student at the University of Kurdistan"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://MahyadSaedpanah.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/MahyadSaedpanah/MahyadSaedpanah.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mahyad Saedpanah"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "M.Sc. Student in Artificial Intelligence"
+  location         : "Sanandaj, Kurdistan Province, Iran"
+  employer         : "University of Kurdistan"
   uri              : # URL
-  email            : "none@example.org" 
+  academic email   : "mahyad.saedpanah@uok.ac.ir" 
+  personal email   : "mahyad.saedpanah@uok.ac.ir"
+  github: "MahyadSaedpanah"
+  linkedin: "mahyadsaedpanah"
+  orcid: "0009-0006-3596-1786"
+
 
   # Academic websites
   academia         : # URL
